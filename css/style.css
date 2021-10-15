@@ -1,0 +1,96 @@
+html {
+    height: 100%;
+}
+
+body {
+    background-color: rgb(3, 54, 54);
+    background: url("/Users/glaubert/Documents/front-end/Projeto1/img/restaurante.png") fixed no-repeat;
+    background-size: cover;
+    background-position: center;
+}
+
+.conteiner {
+    margin: 0 auto;
+    width: 1024px;
+}
+
+header {
+    background-color: rgba(248, 248, 248, 0);
+    height: 118px;
+    text-align: center;
+
+}
+
+ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 10px 0;
+  }
+  
+  li {
+    display: inline;
+  }
+
+  li a {
+    padding-left:ß10px;
+  }
+  
+nav {
+    background-color: rgba(0, 0, 0, 0.664);
+    height: 40px;
+    text-align: center;
+    
+}
+
+main {
+    height: 400px;
+    text-align: center;
+    padding: 40px 240px 0px 240px;
+    
+}
+
+footer {
+    background-color: rgba(0, 0, 0, 0.664);
+    height: 100px;
+    margin-bottom: 20px;
+    color: white;
+    text-align: center;
+    padding-top: 80px;
+    
+}
+
+.conteiner {
+    margin-left: auto;
+    margin-right: auto;
+}
+
+nav a {
+    color: white;
+    font-size: 15px;
+    font-family:Georgia, 'Times New Roman', Times, serif;
+    text-decoration: none;
+    padding-left: 20px;
+}
+
+h1 {
+    color: white;
+    font-size: 70px;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+p {
+    color: white;
+    font-size: 18px;
+    font-family: Arial, Helvetica, sans-serif;
+    line-height: 25px;
+}
+
+main a {
+    color: white;
+    font-size: 20px;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.maps {
+    padding-bottom: 100px;
+}
